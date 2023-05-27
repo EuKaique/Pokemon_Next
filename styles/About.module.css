@@ -1,0 +1,15 @@
+.about{
+    text-align: center;
+}
+
+.about h1{
+    font-style: 2em;
+    margin-bottom: 1em;
+}
+
+.about p{
+    margin-bottom: 1.5em;
+    padding: 0 20%;
+    text-align: justify;
+    line-height: 1.4;
+}
